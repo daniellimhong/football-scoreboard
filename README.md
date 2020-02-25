@@ -1,0 +1,3 @@
+## Scoreboard Tracker for American Foootball
+
+Very simple scoreboard tracker for American Football. Built for useState hooks cardio and learning reienforcement. Yes, I forgot about safeties...
